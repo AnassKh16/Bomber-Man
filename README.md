@@ -2,6 +2,7 @@
 <p align="center">
   <img src="assets/bomberman_explosion_loop.gif" alt="Bomberman Arcade Marquee" width="80%" />
 </p>
+
 ---
 
 ## 🎮 Overview
@@ -75,5 +76,5 @@ Bomberman is a **single-player C++ console game** where you navigate a grid, dro
 
 ---
 
-## 📂 File Structure
+
 
