@@ -1,8 +1,6 @@
-<!-- Retro Pixel Banner with Sprites -->
+<!-- Bomberman Arcade Logo -->
 <p align="center">
-  <img src="https://i.imgur.com/uhz5W5x.png" height="80" />
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff4d4d,100:ffcc00&height=200&section=header&text=💣%20BOMBERMAN%20💣&fontSize=60&fontColor=ffffff&animation=twinkling" />
-  <img src="https://i.imgur.com/uhz5W5x.png" height="80" />
+  <img src="https://i.postimg.cc/jd5Q9D1V/bomberman-arcade-logo.gif" alt="Bomberman Arcade Logo" width="500" />
 </p>
 
 ---
@@ -12,9 +10,6 @@
 Bomberman is a **single-player C++ console game** where you navigate a grid, drop bombs, destroy blocks, and outsmart enemies to advance through **3 challenging stages**.
 
 ---
-
-<!-- Pixel Divider -->
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 ## ✨ Features
 
@@ -42,19 +37,19 @@ Bomberman is a **single-player C++ console game** where you navigate a grid, dro
 
 ---
 
-<!-- 💥 Pixel Bomb Explosion Animation -->
+<!-- Pixel Bomb Explosion -->
 <p align="center">
-  <img src="https://i.imgur.com/bwI3vHk.gif" alt="Pixel Bomb Explosion" width="300" />
+  <img src="https://i.postimg.cc/yYcnW5mH/pixel-bomb-explosion.gif" alt="Pixel Bomb Explosion" width="300" />
 </p>
 
 ---
 
 ## 📸 Gameplay Preview
 
-> _(Add your screenshots or GIFs here)_
+> **Replace with your own screenshots** (put them in `/screenshots/` inside your repo).
 
-![Gameplay Screenshot 1](path/to/image1.png)  
-![Gameplay Screenshot 2](path/to/image2.gif)
+![Gameplay Screenshot 1](screenshots/screenshot1.png)  
+![Gameplay Screenshot 2](screenshots/screenshot2.gif)
 
 ---
 
