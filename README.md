@@ -1,5 +1,5 @@
 <!-- Bomberman Arcade Marquee Header -->
-<p align="center" style="background-color:black; padding:10px;">
+<p align="center">
   <img src="https://i.postimg.cc/N0vNQYpF/bomberman-arcade-marquee.gif" alt="Bomberman Arcade Marquee" width="100%" />
 </p>
 
