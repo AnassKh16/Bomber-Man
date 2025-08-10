@@ -1,6 +1,6 @@
-<!-- Bomberman Arcade Logo -->
-<p align="center">
-  <img src="https://i.postimg.cc/jd5Q9D1V/bomberman-arcade-logo.gif" alt="Bomberman Arcade Logo" width="500" />
+<!-- Bomberman Arcade Marquee Header -->
+<p align="center" style="background-color:black; padding:10px;">
+  <img src="https://i.postimg.cc/N0vNQYpF/bomberman-arcade-marquee.gif" alt="Bomberman Arcade Marquee" width="100%" />
 </p>
 
 ---
@@ -46,7 +46,8 @@ Bomberman is a **single-player C++ console game** where you navigate a grid, dro
 
 ## 📸 Gameplay Preview
 
-> **Replace with your own screenshots** (put them in `/screenshots/` inside your repo).
+> **Replace with your own screenshots**  
+> Put them in `/screenshots/` in your repo, then update the paths below.
 
 ![Gameplay Screenshot 1](screenshots/screenshot1.png)  
 ![Gameplay Screenshot 2](screenshots/screenshot2.gif)
