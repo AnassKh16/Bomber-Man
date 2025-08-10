@@ -1,6 +1,6 @@
 <!-- Bomberman Arcade Marquee Header -->
 <p align="center">
-  <img src="assets/bomberman_explosion_loop.gif" alt="Bomberman Arcade Marquee" width="100%" />
+  <img src="assets/bomberman_explosion_loop.gif" alt="Bomberman Arcade Marquee" width="80%" />
 </p>
 ---
 
@@ -38,7 +38,7 @@ Bomberman is a **single-player C++ console game** where you navigate a grid, dro
 
 <!-- Pixel Bomb Explosion -->
 <p align="center">
-  <img src="assets/pixel_bomb.gif" alt="Pixel Bomb Explosion" width="100%" />
+  <img src="assets/pixel_bomb.gif" alt="Pixel Bomb Explosion" width="80%" />
 </p>
 
 ---
