@@ -39,7 +39,7 @@ Bomberman is a **single-player C++ console game** where you navigate a grid, dro
 
 <!-- Pixel Bomb Explosion -->
 <p align="center">
-  <img src="assets/pixel_bomb.gif" alt="Pixel Bomb Explosion" width="500" />
+  <img src="assets/pixel_bomb.gif" alt="Pixel Bomb Explosion" width="300" />
 </p>
 
 ---
