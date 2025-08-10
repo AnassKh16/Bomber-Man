@@ -44,14 +44,6 @@ Bomberman is a **single-player C++ console game** where you navigate a grid, dro
 
 ---
 
-## 📸 Gameplay Preview
-
-<p align="center">
-  <img src="assets/created.gif" alt="Pixel Bomb Explosion" width="800" />
-</p>
-
----
-
 ## 🕹️ How to Play
 
 1. Launch from terminal.
@@ -60,6 +52,14 @@ Bomberman is a **single-player C++ console game** where you navigate a grid, dro
 4. Quit: **Q**  
 5. Destroy enemies & blocks, avoid explosions.
 6. Clear all enemies to progress.
+
+---
+
+## 📸 Gameplay Preview
+
+<p align="center">
+  <img src="assets/created.gif" alt="Pixel Bomb Explosion" width="800" />
+</p>
 
 ---
 
