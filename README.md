@@ -1,6 +1,6 @@
 <!-- Bomberman Arcade Marquee Header -->
 <p align="center">
-  <img src="assets/bomberman-arcade-marquee.gif" alt="Bomberman Arcade Marquee" width="100%" />
+  <img src="assets/bomberman-arcade-marquee.gif" alt="Bomberman Arcade Marquee" width="10%" />
 </p>
 ---
 
