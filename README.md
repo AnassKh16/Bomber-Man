@@ -1,6 +1,6 @@
 <!-- Bomberman Arcade Marquee Header -->
 <p align="center">
-  <img src="assets/bomberman_arcade_marquee.gif" alt="Bomberman Arcade Marquee" width="100%" />
+  <img src="assets/bomberman_explosion_loop.gif" alt="Bomberman Arcade Marquee" width="100%" />
 </p>
 ---
 
@@ -38,18 +38,16 @@ Bomberman is a **single-player C++ console game** where you navigate a grid, dro
 
 <!-- Pixel Bomb Explosion -->
 <p align="center">
-  <img src="https://i.postimg.cc/yYcnW5mH/pixel-bomb-explosion.gif" alt="Pixel Bomb Explosion" width="300" />
+  <img src="assets/pixel_bomb.gif" alt="Pixel Bomb Explosion" width="300" />
 </p>
 
 ---
 
 ## 📸 Gameplay Preview
 
-> **Replace with your own screenshots**  
-> Put them in `/screenshots/` in your repo, then update the paths below.
-
-![Gameplay Screenshot 1](screenshots/screenshot1.png)  
-![Gameplay Screenshot 2](screenshots/screenshot2.gif)
+<p align="center">
+  <img src="assets/created.gif" alt="Pixel Bomb Explosion" width="300" />
+</p>
 
 ---
 
