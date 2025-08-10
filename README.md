@@ -76,5 +76,11 @@ Bomberman is a **single-player C++ console game** where you navigate a grid, dro
 
 ---
 
+<p align="center">
+  <img src="assets/Thanks.gif" alt="Thnku" width="200" />
+</p>
+
+---
+
 
 
